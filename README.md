@@ -12,8 +12,8 @@ Building production AI systems — multi-agent orchestration, RAG pipelines, and
 Python • TypeScript • C# • Django • FastAPI • LangChain • Docker • K8s • AWS • PostgreSQL
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephflu)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://blog.fluckiger.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephflu)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.fluckiger.org)
 
 ---
 
